@@ -2,7 +2,7 @@
 - 👀 I’m interested in [ Nodejs and Python ] || Machine Learning
 - 🌱 Currently reading Data Science @Fordham University
 - 💞️ I’m working on [ Ai apps and custom APIs ] 
-- 📫 How to reach me https://iababio.com
+- 📫 How to reach me https://iababio.dev
 
 <!---
 melch-inno/melch-inno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
