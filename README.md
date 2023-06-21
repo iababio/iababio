@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boakye I. Ababio
--    I’m interested in [ Nodejs and Python ] || Machine Learning
+-    Interested in [ Python and Nodejs ] || Machine Learning
 - 🌱 Currently reading Data Science @Fordham University
--    I’m working on [ machine learning and custom APIs ] 
+- 💡  Working on [ machine learning and custom APIs stuff ] 
 - 📫 How to reach me https://iababio.dev
 
 <!---
