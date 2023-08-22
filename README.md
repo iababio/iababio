@@ -5,7 +5,7 @@
 - 📫 How to reach me https://iababio.dev
 
 <p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melch-inno&layout=compact&langs_count=3&hide=html,css" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melch-inno&layout=compact&langs_count=4&hide=html,css" />
 </p>
 
 <!---
