@@ -11,7 +11,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melch-inno&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=melch-inno&hide_border=true&theme=tokyo-night&hide=html,css" width="66%">
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=melch-inno&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=melch-inno&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=melch-inno&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=melch-inno&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/> -->
 </p>
 
 
