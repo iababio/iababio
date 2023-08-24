@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Boakye I. Ababio
--  Machine Learning || [ Python, Nodejs and C++]
-- 💡  Working on [ machine learning and custom APIs stuff ] 
-- 📫 How to reach me https://iababio.dev
-
-
+- Greetings! I specialize in machine learning and crafting bespoke APIs. My proficiency extends across Python, Node.js, and C++, enabling me to engineer innovative solutions that push boundaries.
+- Looking forward to harnessing technology's potential to the fullest. 🌟👩‍💻
 
 
 <p align="center">
