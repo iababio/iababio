@@ -1,4 +1,4 @@
-🎖️🎧 My proficiency extends across Python, Node.js, and C++, enabling me to engineer innovative solutions that push boundaries. I am looking forward to harnessing technology's potential to the fullest. 🌟👩‍💻
+🎖️🎧 My proficiency extends across Python, Node.js, and C++, enabling me to engineer innovative solutions from backend to frontend. 🌟👩‍💻
 
 
 <p align="center">
