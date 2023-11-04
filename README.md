@@ -1,4 +1,4 @@
-🎖️🎧 My proficiency extends across Python, Javascript, and C++, enabling me to engineer innovative solutions from backend to frontend.
+🎖️🎧 Python, Javascript, and C++ || Machine Learning and Software Engineering.
 
 
 <p align="center">
