@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.iababio.dev">Boakye I. Ababio!</a></h1>
+<h1 align="center"> <a href="https://www.iababio.dev">Boakye I. Ababio!</a></h1>
 <h3 align="center">Python, Typescript and C++ </h3>
 
 - 🔭 &ensp;I’m currently working on LLM & GenAi!
