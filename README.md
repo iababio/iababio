@@ -3,7 +3,7 @@
 
 - 🔭 &ensp;I’m currently working on LLM & Agentic Apps, GRPC, RestAPIs
 - ⚡ &ensp;Fun fact: I love reading and Playing soccer
-- 📫 &ensp;How to reach me: [**Email**][email]
+- 📫 &ensp;How to reach me: LinkedIn: https://www.linkedin.com/in/iba7/
 
 
 <br />
