@@ -17,6 +17,3 @@
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=222222&logo=Kubernetes&logoColor=3970E4&label=)
 
 
-
-
-[email]: mailto:iba-melch@hotmail.com
